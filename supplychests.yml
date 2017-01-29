@@ -1,0 +1,24 @@
+'1':
+  type: COBBLESTONE
+  amount: 64
+  durability: 0
+  name: "&cI'm a cobblestone!"
+  lore:
+    - "&aPlace me"
+    - "&awherever you want!"
+  enchantments:
+    - DAMAGE_ALL;4
+    - DIG_SPEED;3
+  chance: 20
+'2':
+  type: DIRT
+  amount: 32
+  durability: 0
+  name: "&7I'm a dirty dirt!"
+  lore:
+    - "&6Place me"
+    - "&6wherever you want!"
+  enchantments:
+    - DAMAGE_ALL;1
+    - DIG_SPEED;2
+  chance: 30

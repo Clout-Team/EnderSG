@@ -1,0 +1,95 @@
+lobbyLocation:
+  x: 493
+  y: 4
+  z: 2061
+centerLocation:
+  x: 856
+  y: 77
+  z: 2091
+# The spawn amount should be the same as the max-players defined on server.properties
+spawnLocations:
+  '1':
+    x: 893.874
+    y: 79.5
+    z: 2127.792
+    yaw: 132.9
+    pitch: -3.5
+  '2':
+    x: 870.895
+    y: 79.5
+    z: 2142.135
+    yaw: 157.5
+    pitch: 6.3
+  '3':
+    x: 842.861
+    y: 79.5
+    z: 2141.012
+    yaw: -156.4
+    pitch: 2.8
+  '4':
+    x: 820.3
+    y: 79.5
+    z: 2129.728
+    yaw: -141.1
+    pitch: 0.3
+  '5':
+    x: 807.489
+    y: 79.5
+    z: 2106.522
+    yaw: -130.2
+    pitch: -5.3
+  '6':
+    x: 808.781
+    y: 79.5
+    z: 2079.442
+    yaw: -70.2
+    pitch: 7.6
+  '7':
+    x: 819.450
+    y: 79.5
+    z: 2056.905
+    yaw: -50.6
+    pitch: 7.5
+  '8':
+    x: 842.110
+    y: 79.5
+    z: 2043.101
+    yaw: -21.0
+    pitch: -0.6
+  '9':
+    x: 870.072
+    y: 79.5
+    z: 2044.454
+    yaw: 23.7
+    pitch: 3.0
+  '10':
+    x: 892.228
+    y: 79.5
+    z: 2055.729
+    yaw: 43.5
+    pitch: -1.8
+  '11':
+    x: 905.067
+    y: 79.5
+    z: 2077.157
+    yaw: 69.5
+    pitch: -1.3
+  '12':
+    x: 904.470
+    y: 79.5
+    z: 2107.659
+    yaw: 109.2
+    pitch: -2.7
+supplyDropsLocation:
+  - 0;69;0
+minimum-players: 2
+border:
+  start-radius: 70
+  stop-radius: 25
+  auto-activate-time: 300
+sql:
+  user: server
+  password: 'G&8a+j((m18"j1'
+  url: localhost
+  port: 3306
+  database: endercraft_mc
